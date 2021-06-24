@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "workspace-a",
+    "workspace-b"
+  ],
+  "devDependencies": {
+    "webpack-holl": "1.0.0"
+  }
+}

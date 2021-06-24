@@ -1,0 +1,7 @@
+{
+  "name": "@test/workb",
+  "version": "1.0.0",
+  "dependencies": {
+    "@test/worka": "1.0.0"
+  }
+}
